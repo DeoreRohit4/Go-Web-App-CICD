@@ -18,7 +18,9 @@ The server will start on port 8080. You can access it by navigating to `http://l
 
 --------------------------------------------------------------------------------------------------------------------
 # CI/CD Pipeline for Golang Application
-![Uploading The DevOps Touch on SDLC (1).png…]()
+
+![DevOps](https://github.com/user-attachments/assets/b43a6d4f-2e04-46d4-a047-8346ebc4d834)
+
 
 ## Project Overview
 This project implements a CI/CD pipeline for a Golang application using GitHub Actions and ArgoCD. The pipeline handles building, testing, and deploying the application to Azure Kubernetes Service (AKS).
@@ -56,3 +58,7 @@ The application is deployed to AKS using ArgoCD, which ensures continuous delive
 
 ## Conclusion
 This CI/CD pipeline automates the build, test, and deployment processes for the Golang application, ensuring a streamlined and efficient workflow. By integrating GitHub Actions and ArgoCD, the project achieves robust continuous integration and continuous delivery to Azure Kubernetes Service.
+
+--------------------------------------------------------------------------------------------------------------------
+# I also wrote a blog on the project for anyone who wants to implement it.
+### Blog Link: https://rohitexplainstech.hashnode.dev/go-web-app-cicd
