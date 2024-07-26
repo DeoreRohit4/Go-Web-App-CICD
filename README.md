@@ -63,3 +63,15 @@ This CI/CD pipeline automates the build, test, and deployment processes for the 
 # I also wrote a blog on the project for anyone who wants to implement it.
 ### Blog Link: https://rohitexplainstech.hashnode.dev/go-web-app-cicd
 ### Linkedin: https://www.linkedin.com/in/rohitdeore/
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+# Screenshots
+
+![1](https://github.com/user-attachments/assets/dfbd6cd0-025d-4a0e-a628-b4994c72bd6a)
+![2](https://github.com/user-attachments/assets/1037867f-fc38-4ecc-8507-c2ce8946a4e8)
+![3](https://github.com/user-attachments/assets/6bc52a48-4075-4d9f-925d-06235d8ca86d)
+![4](https://github.com/user-attachments/assets/d7e5dfc1-471b-4ae7-b451-4fa57bab4022)
+![5](https://github.com/user-attachments/assets/60378017-40dd-45e6-ab25-313ef7cd91e8)
+![6](https://github.com/user-attachments/assets/6dd5dd34-ee53-4ec7-9a11-50d90a0859ba)
+![7](https://github.com/user-attachments/assets/c8b1c895-eee5-4d7a-871e-aec3f91f93d4)
+![8](https://github.com/user-attachments/assets/9988634c-42f4-48e2-9da8-0468ef919eb4)
