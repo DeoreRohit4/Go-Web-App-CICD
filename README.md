@@ -62,3 +62,4 @@ This CI/CD pipeline automates the build, test, and deployment processes for the 
 --------------------------------------------------------------------------------------------------------------------
 # I also wrote a blog on the project for anyone who wants to implement it.
 ### Blog Link: https://rohitexplainstech.hashnode.dev/go-web-app-cicd
+### Linkedin: https://www.linkedin.com/in/rohitdeore/
